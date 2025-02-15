@@ -4,4 +4,4 @@ plugins:
 
 # add the following to _config.yml file
 title: Aditya Nair
-theme: jeykll-theme-minimal
+# theme: jeykll-theme-minimal
