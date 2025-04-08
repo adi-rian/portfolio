@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Machine Learning, Snowflake
+#### Technical Skills: Python, SQL, Tableau, Machine Learning, Snowflake
 
 ## Education			        		
 - B.E, Mechanical Engineering | Birla Institute of Technology and Science, Pilani (_August 2019 - July 2023_)
