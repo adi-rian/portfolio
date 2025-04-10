@@ -1,6 +1,6 @@
 # Aditya Nair
 
-**Data Scientist**\
+**DATA SCIENTIST**\
 **BITS PILANI**
 
 📧 [adityasudish1@gmail.com](mailto:adityasudish1@gmail.com) • 
