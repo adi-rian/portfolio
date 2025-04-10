@@ -1,10 +1,11 @@
 # Aditya Nair
 
-### **Data Scientist**  
-### BITS Pilani  
-📞 +91-9061650311 \
+## **Data Scientist**
+## BITS PILANI
+
 📧 [adityasudish1@gmail.com](mailto:adityasudish1@gmail.com) • 
 📧 [f20190147P@alumni.bits-pilani.ac.in](mailto:f20190147P@alumni.bits-pilani.ac.in) \
+📞 +91-9061650311 \
 🔗 [LinkedIn](https://www.linkedin.com/in/adirian/)
 
 ---
