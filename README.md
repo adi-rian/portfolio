@@ -62,6 +62,17 @@ Airmeet is a SaaS-based company for hosting virtual and hybrid summits; Raised $
 
 ---
 
+## 🤝 Positions of Responsibility
+
+### Joint Secretary – ASME, BITS Pilani *(Jul 2021 – Jul 2022)*
+- Planned and executed events with 100+ attendees, resulting in 40% YoY growth
+- Managed a team of 30 members and organized major events during APOGEE 2021 (800+ footfall)
+
+### Executive Member – EFx E-Fest *(Dec 2020 – Jul 2021)*
+- Organized 15+ speaker sessions, increasing attendance by 20% YoY
+- Partnered with 40+ industry specialists to deliver valuable insights to students
+---
+
 ## 🎓 Education
 
 ### Birla Institute of Technology and Science, Pilani *(Aug 2019 – May 2023)*  
@@ -77,15 +88,4 @@ CBSE - Class 12th – Percentage: 94.4%
 - **Scholarship Nominee – OPJEMS (Sep 2019):** Shortlisted nationally for securing 1st rank in Mechanical Engineering at BITS Pilani
 - **District Basketball Team – Ernakulam (U16):** Selected after standout performance in inter-school tournaments
 
----
-
-## 🤝 Positions of Responsibility
-
-### Joint Secretary – ASME, BITS Pilani *(Jul 2021 – Jul 2022)*
-- Planned and executed events with 100+ attendees, resulting in 40% YoY growth
-- Managed a team of 30 members and organized major events during APOGEE 2021 (800+ footfall)
-
-### Executive Member – EFx E-Fest *(Dec 2020 – Jul 2021)*
-- Organized 15+ speaker sessions, increasing attendance by 20% YoY
-- Partnered with 40+ industry specialists to deliver valuable insights to students
 
