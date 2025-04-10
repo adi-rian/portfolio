@@ -2,7 +2,8 @@
 
 ### **Data Scientist**  
 ### BITS Pilani  
-📞 +91-9061650311 • 📧 [adityasudish1@gmail.com](mailto:adityasudish1@gmail.com) • \
+📞 +91-9061650311 \
+📧 [adityasudish1@gmail.com](mailto:adityasudish1@gmail.com) • 
 📧 [f20190147P@alumni.bits-pilani.ac.in](mailto:f20190147P@alumni.bits-pilani.ac.in) \
 🔗 [LinkedIn](https://www.linkedin.com/in/adirian/)
 
