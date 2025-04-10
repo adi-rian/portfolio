@@ -6,8 +6,13 @@
 - B.E, Mechanical Engineering | Birla Institute of Technology and Science, Pilani (_August 2019 - July 2023_)
 
 ## Work Experience
-**Analyst @ UGRO Capital (_June 2023 - Present_)**
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Analyst - Data Modelling @ UGRO Capital (_June 2023 - Present_)**
+- UGRO Capital is a ₹10,000 Cr AUM NBFC that leverages data-driven techniques to solve the MSME credit gap in India (Mumbai)
+- Devised 100+ custom and high-IV credit features after performing extensive EDA on customer credit data
+- Built and deployed a Credit-Scoring model using XGBoost, reducing NPA for the Micro segment by 25%
+- Created an automated system for generating 100+ daily custom credit reports, increasing operational efficiency by 20%
+- Developed a cross-sell strategy targeting the Micro Portfolio, driving a ₹30 Cr increase in AUM within a month
+- Improved data quality by resolving duplication issues across multiple sources, achieving a 97% accuracy rate
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
