@@ -71,6 +71,7 @@ Airmeet is a SaaS-based company for hosting virtual and hybrid summits; Raised $
 ### Executive Member – EFx E-Fest *(Dec 2020 – Jul 2021)*
 - Organized 15+ speaker sessions, increasing attendance by 20% YoY
 - Partnered with 40+ industry specialists to deliver valuable insights to students
+
 ---
 
 ## 🎓 Education
