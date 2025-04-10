@@ -1,7 +1,7 @@
 # Aditya Nair
 
-## **Data Scientist**
-## BITS PILANI
+**Data Scientist**\
+**BITS PILANI**
 
 📧 [adityasudish1@gmail.com](mailto:adityasudish1@gmail.com) • 
 📧 [f20190147P@alumni.bits-pilani.ac.in](mailto:f20190147P@alumni.bits-pilani.ac.in) \
