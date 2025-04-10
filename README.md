@@ -6,24 +6,86 @@
 - B.E, Mechanical Engineering | Birla Institute of Technology and Science, Pilani (_August 2019 - July 2023_)
 
 ## Work Experience
-**Analyst - Data Modelling @ UGRO Capital (_June 2023 - Present_)**
-- UGRO Capital is a ₹10,000 Cr AUM NBFC that leverages data-driven techniques to solve the MSME credit gap in India (Mumbai)
+**Analyst - Data Modelling @ UGRO Capital (_June 2023 - Present_)**\
+*UGRO Capital is a ₹10,000 Cr AUM NBFC that leverages data-driven techniques to solve the MSME credit gap in India (_Mumbai_)*
 - Devised 100+ custom and high-IV credit features after performing extensive EDA on customer credit data
 - Built and deployed a Credit-Scoring model using XGBoost, reducing NPA for the Micro segment by 25%
 - Created an automated system for generating 100+ daily custom credit reports, increasing operational efficiency by 20%
 - Developed a cross-sell strategy targeting the Micro Portfolio, driving a ₹30 Cr increase in AUM within a month
 - Improved data quality by resolving duplication issues across multiple sources, achieving a 97% accuracy rate
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+# Aditya Nair
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Data Scientist**  
+BITS Pilani  
+📞 +91-9061650311 • 📧 [adityasudish1@gmail.com](mailto:adityasudish1@gmail.com) • 📧 [f20190147P@alumni.bits-pilani.ac.in](mailto:f20190147P@alumni.bits-pilani.ac.in)  
+🔗 [LinkedIn](https://www.linkedin.com/in/adirian/)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+---
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+## 💻 Technical Skills
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**Programming & Tools:** Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL, Tableau, Snowflake, MS Excel, Jupyter Notebook, C++, Power BI  
+**Machine Learning & Analytics:** Linear & Logistic Regression, Random Forest, XGBoost, Neural Networks, KMeans
+
+---
+
+## 🧑‍💼 Work Experience
+
+### UGRO Capital – Analyst, Data Modelling *(Jun 2023 – Present, Mumbai)*  
+UGRO Capital is a 10000 Cr AUM NBFC that leverages data-driven techniques to solve the MSME credit gap in India
+- Devised 100+ custom and high-IV credit features after performing extensive EDA on customer credit data
+- Built and deployed a Credit-Scoring model using XGBoost, reducing NPA for the Micro segment by 25%
+- Created an automated system for generating 100+ daily custom credit reports, increasing operational efficiency by 20%
+- Developed a cross-sell strategy targeting the Micro Portfolio, driving a 30 Cr increase in AUM within a month
+- Improved data quality by resolving duplication issues across multiple sources, achieving a 97% accuracy rate
+
+### Airmeet – Data Analyst Intern *(Jul 2022 – Dec 2022, Bangalore)*  
+Airmeet is a SaaS-based company for hosting virtual and hybrid summits; Raised $35 million through Series-B funding
+- Executed 300+ SQL queries to extract key metrics (NPS), achieving 30% MoM rise in user engagement
+- Designed 20+ live Tableau dashboards to analyze and visualize user journeys to enhance product experience
+- Built a sentiment analysis and clustering algorithm using Python, saving 2+ hours per week in manual checks
+
+---
+
+## 🛠️ Projects
+
+### Applied Data Science Lab, World Quant University *(Feb 2025 – Mar 2025)*
+- **Data Extraction and Analysis:** Used SQLite and performed extensive EDA, handling missing values, outliers, multicollinearity, and leaky features
+- **Pre-processing & Optimization:** Resampled datasets and applied transformers (SimpleImputer, OneHotEncoder) for model improvement
+- **Predictive Modelling:** Built and evaluated linear/ridge regression, decision tree, and classification models like Random Forest & Gradient Boosting
+- **Unsupervised Learning:** Applied StandardScaler, K-means clustering, and PCA on US consumer datasets for data visualization
+
+### Sentiment Analysis and Clustering
+- Developed a Naive Bayes Classifier to analyze 7500+ user feedback reviews and automate insights extraction
+- Applied K-means clustering to segment G2 comments into 50 categories, reducing manual analysis time
+
+---
+
+## 🎓 Education
+
+### Birla Institute of Technology and Science, Pilani *(Aug 2019 – May 2023)*  
+Bachelor of Engineering in Mechanical Engineering – CGPA: 8.29/10.00
+
+### Saraswathy Vidyaniketan, Elamakkara *(Jun 2017 – May 2019)*  
+CBSE - Class 12th – Percentage: 94.4%
+
+---
+
+## 🏅 Awards and Recognitions
+
+- **Scholarship Nominee – OPJEMS (Sep 2019):** Shortlisted nationally for securing 1st rank in Mechanical Engineering at BITS Pilani
+- **District Basketball Team – Ernakulam (U16):** Selected after standout performance in inter-school tournaments
+
+---
+
+## 🤝 Positions of Responsibility
+
+### Joint Secretary – ASME, BITS Pilani *(Jul 2021 – Jul 2022)*
+- Planned and executed events with 100+ attendees, resulting in 40% YoY growth
+- Managed a team of 30 members and organized major events during APOGEE 2021 (800+ footfall)
+
+### Executive Member – EFx E-Fest *(Dec 2020 – Jul 2021)*
+- Organized 15+ speaker sessions, increasing attendance by 20% YoY
+- Partnered with 40+ industry specialists to deliver valuable insights to students
+
