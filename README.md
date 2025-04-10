@@ -1,23 +1,7 @@
-# Data Scientist
-
-#### Technical Skills: Python, SQL, Tableau, Machine Learning, Snowflake, Jupyter Notebook
-
-## Education			        		
-- B.E, Mechanical Engineering | Birla Institute of Technology and Science, Pilani (_August 2019 - July 2023_)
-
-## Work Experience
-**Analyst - Data Modelling @ UGRO Capital (_June 2023 - Present_)**\
-*UGRO Capital is a ₹10,000 Cr AUM NBFC that leverages data-driven techniques to solve the MSME credit gap in India (_Mumbai_)*
-- Devised 100+ custom and high-IV credit features after performing extensive EDA on customer credit data
-- Built and deployed a Credit-Scoring model using XGBoost, reducing NPA for the Micro segment by 25%
-- Created an automated system for generating 100+ daily custom credit reports, increasing operational efficiency by 20%
-- Developed a cross-sell strategy targeting the Micro Portfolio, driving a ₹30 Cr increase in AUM within a month
-- Improved data quality by resolving duplication issues across multiple sources, achieving a 97% accuracy rate
-
 # Aditya Nair
 
-## **Data Scientist**  
-## BITS Pilani  
+### **Data Scientist**  
+### BITS Pilani  
 📞 +91-9061650311 • 📧 [adityasudish1@gmail.com](mailto:adityasudish1@gmail.com) • \
 📧 [f20190147P@alumni.bits-pilani.ac.in](mailto:f20190147P@alumni.bits-pilani.ac.in) \
 🔗 [LinkedIn](https://www.linkedin.com/in/adirian/)
